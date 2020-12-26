@@ -7,10 +7,13 @@ Following publication, the associated computer codes were turned into useable so
 The code is as following:
 
 1. speced.py
+
 Python script that uploads NMR spectra and allows user to interactively edit the spectrum so that the automated search can work correctly.
 
 2. mc.c
+
 C source code to run Monte Carlo/Simulated annealing simulation as fast as possible on the edited spectra. Must be compiled into executeable to run.
 
 3. anal.py
+
 Python script that allows user to interactively analyze and filter results from the output of the C program
