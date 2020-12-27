@@ -12,7 +12,7 @@ Python script that uploads NMR spectra and allows user to interactively edit the
 
 2. mc.c
 
-C source code to run Monte Carlo/Simulated annealing simulation as fast as possible on the edited spectra. Must be compiled into executeable to run.
+C source code to run Monte Carlo/Simulated annealing simulation as fast as possible on the edited spectra. Must be compiled into an executable to run.
 
 3. anal.py
 
