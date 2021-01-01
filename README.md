@@ -17,3 +17,5 @@ C source code to run Monte Carlo/Simulated annealing simulation as fast as possi
 3. anal.py
 
 Python script that allows user to interactively analyze and filter results from the output of the C program
+
+Additionally I have provided 2 examples of the output from the program on real NMR spectra. These pictures are taken straight from the publication.
